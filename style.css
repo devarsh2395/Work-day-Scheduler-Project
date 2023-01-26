@@ -1,6 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  line-height: 2;
 }
 
 textarea {
@@ -11,13 +12,18 @@ textarea {
   border-left: 1px solid black;
   padding: 10px;
 }
-
+.p-5 {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
 .description {
   white-space: pre-wrap;
 }
 
 .time-block {
   border-radius: 15px;
+  text-align: center;
 }
 
 .row {
