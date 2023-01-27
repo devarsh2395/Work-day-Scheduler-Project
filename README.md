@@ -1,16 +1,15 @@
 # Work Day Scheduler Project
 
 
-
 ## Description
+This application is a comprehensive work day calendar that helps users to plan and organize their daily schedule effectively. It is designed to make it easy for users to keep track of their meetings, appointments, and other tasks.
+With this application, users can easily add events for each hour of the day, providing them with a clear overview of their schedule. 
 
-
-
-[Home webpage img]
+[Home webpage img](/Work-day-Scheduler-Project/Assets/Homepage%20Img.png)
 
 ## Deployed Webpage Url
 
-[Deployd webpage Url]
+[Deployd webpage Url](https://devarsh2395.github.io/Work-day-Scheduler-Project/)
 
 
 
